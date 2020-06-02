@@ -1,0 +1,4 @@
+[submodule "norubo/l10n_cr"]
+	path = norubo/l10n_cr
+	url = git@github.com:norubo/l10n_cr.git
+	branch = 12.0
